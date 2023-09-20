@@ -16,7 +16,7 @@ const headingOptions = {
     textTransform: "uppercase",
     p: "4",
     size: "4xl",
-    whiteSpace: "nowrap"
+    whiteSpace: ["none", "nowrap"],
 }
 
 const Home = () => {
